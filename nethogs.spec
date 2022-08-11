@@ -4,7 +4,7 @@
 #
 Name     : nethogs
 Version  : 0.8.6
-Release  : 4
+Release  : 5
 URL      : https://github.com/raboof/nethogs/archive/v0.8.6/nethogs-0.8.6.tar.gz
 Source0  : https://github.com/raboof/nethogs/archive/v0.8.6/nethogs-0.8.6.tar.gz
 Summary  : No detailed summary available
